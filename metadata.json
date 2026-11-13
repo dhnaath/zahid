@@ -1,0 +1,6 @@
+{
+  "name": "Zahid Ibrahim - Personal Website",
+  "description": "Situs resmi Zahid Ibrahim - YouTuber, podcaster, dan penulis. Tips dan insights seputar produktivitas, pengembangan diri, dan pelajaran hidup nyata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
